@@ -1,7 +1,0 @@
-com\fxy\domain\Account.class
-com\fxy\service\impl\AccountServiceImpl.class
-com\fxy\dao\AccountDao.class
-com\fxy\config\springConfig.class
-com\fxy\service\AccountService.class
-com\fxy\config\MybatisConfig.class
-com\fxy\config\jdbcConfig.class
